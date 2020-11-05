@@ -1,6 +1,5 @@
 {
 	"employees": [
 		{"firstname" : "John", "Lastname": "Doe"}
-		{"firstname" : "Sarah", "Lastname": "Lou"}
 	]
 }
