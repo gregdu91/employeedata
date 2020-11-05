@@ -1,8 +1,7 @@
 {
 	"employees": [
-		{"fistname" : "John", "Lastname": "Doe"}
-		{"fistname" : "Sarah", "Lastname": "Lou"}
-		{"fistname" : "Patrick", "Lastname": "Patoche"}
-
+		{"firstname" : "John", "Lastname": "Doe"}
+		{"firstname" : "Sarah", "Lastname": "Lou"}
+		{"firstname" : "Patrick", "Lastname": "Li"}
 	]
 }
