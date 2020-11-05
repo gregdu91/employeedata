@@ -2,6 +2,5 @@
 	"employees": [
 		{"firstname" : "John", "Lastname": "Doe"}
 		{"firstname" : "Sarah", "Lastname": "Lou"}
-		{"firstname" : "Patrick", "Lastname": "Li"}
 	]
 }
